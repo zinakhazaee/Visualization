@@ -1,2 +1,4 @@
 # Visualization
-Using Python and its libraries, you can visualize your data in charts, plots, maps and more.
+Using Python and its libraries, you can visualize your data in charts, plots, maps, and more.
+
+Exploratory Data Analysis (EDA) is a crucial step in the data science process. It involves analyzing and summarizing a dataset in order to understand its properties and relationships. EDA allows data scientists to uncover patterns, trends, and anomalies in the data, and to generate hypotheses for further investigation. It also helps to identify any missing or incorrect data and to determine the most appropriate statistical methods and visualizations for the data. EDA is an iterative process, with data scientists constantly reviewing and refining their understanding of the data as they explore it. It is an essential tool for understanding and communicating the insights that can be derived from data, and for informing data-driven decision-making.
